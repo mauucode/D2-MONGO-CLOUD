@@ -26,7 +26,6 @@ lerna-debug.log*
 !*.d.ts
 
 # Compiled JavaScript files
-*.js
 !gulpfile.js
 !postcss.config.js
 
